@@ -1,6 +1,17 @@
+
 <p align="center">
-  <img src="assets/logo.png" alt="Curious Kid logo" width="220">
+  <img
+    src="./assets/logo-light.png#gh-light-mode-only"
+    alt="Learn Anything"
+    width="200"
+  />
+  <img
+    src="./assets/logo-dark.png#gh-dark-mode-only"
+    alt="Learn Anything"
+    width="200"
+  />
 </p>
+
 
 <h1 align="center">Curious Kid</h1>
 
