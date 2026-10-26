@@ -4,15 +4,15 @@
 
 <h1 align="center">Curious Kid</h1>
 
-<p align="center">
+<h3>
   A Claude skill that explains any technical topic using a simple short story, so even a 5-year-old can understand.
-</p>
+</h3>
 
 Curious Kid works with Claude. Ask about programming, ML, networking, finance, medicine, or science, and it answers with a tiny story first, then connects it back to the real concept. You get the shape of the idea in under a minute, so the jargon has something to attach to later.
 
 ## Example
 
-**You:** Curious Kid, explain what a cache is.
+**You:** /curious-kid explain what a cache is.
 
 **Claude:**
 
